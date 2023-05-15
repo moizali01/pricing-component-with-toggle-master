@@ -42,8 +42,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/moizali01/pricing-component-with-toggle-master]
+- Live Site URL: [https://moizali01.github.io/pricing-component-with-toggle-master]
 
 ## My process
 
